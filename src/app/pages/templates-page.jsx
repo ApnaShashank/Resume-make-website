@@ -11,7 +11,7 @@ const templates = [
         name: 'Modern ATS',
         description: 'ATS-optimized single-column design with Arial font. Perfect for job portals. Score: 90+',
         category: 'ats',
-        image: '/templates/template-2.png',
+        image: '/templates/Modern%20ATS.png',
         tags: ['ATS 90+', 'Single Column', 'Job Portals'],
         popular: true,
         isATS: true
@@ -21,7 +21,7 @@ const templates = [
         name: 'Classic ATS',
         description: 'Traditional Times New Roman layout optimized for ATS systems. Score: 90+',
         category: 'ats',
-        image: '/templates/template-5.png',
+        image: '/templates/Classic%20ATS.png',
         tags: ['ATS 90+', 'Traditional', 'Professional'],
         popular: true,
         isATS: true
@@ -31,7 +31,7 @@ const templates = [
         name: 'Executive ATS',
         description: 'Professional Calibri-based design for executives. ATS-friendly. Score: 90+',
         category: 'ats',
-        image: '/templates/template-1.png',
+        image: '/templates/Executive%20ATS.png',
         tags: ['ATS 90+', 'Executive', 'Calibri'],
         popular: false,
         isATS: true
@@ -41,7 +41,7 @@ const templates = [
         name: 'Elegant ATS',
         description: 'Georgia serif font with centered elegant design. ATS-optimized. Score: 90+',
         category: 'ats',
-        image: '/templates/template-3.png',
+        image: '/templates/Elegent%20ATS.png',
         tags: ['ATS 90+', 'Elegant', 'Serif'],
         popular: false,
         isATS: true
@@ -51,7 +51,7 @@ const templates = [
         name: 'Creative ATS',
         description: 'Modern Verdana design with clean sections. ATS-friendly. Score: 90+',
         category: 'ats',
-        image: '/templates/template-4.png',
+        image: '/templates/Creative%20ATS.png',
         tags: ['ATS 90+', 'Modern', 'Clean'],
         popular: false,
         isATS: true
@@ -62,7 +62,7 @@ const templates = [
         name: 'Executive Visual',
         description: 'Bold two-column design with visual elements for direct submissions.',
         category: 'professional',
-        image: '/templates/template-1.png',
+        image: '/templates/Executive.png',
         tags: ['Visual Design', 'Executive', 'Two-Column'],
         popular: false,
         isATS: false
@@ -72,7 +72,7 @@ const templates = [
         name: 'Modern Visual',
         description: 'Clean two-column structured design with colorful skill tags.',
         category: 'professional',
-        image: '/templates/template-2.png',
+        image: '/templates/Modern.png',
         tags: ['Visual Design', 'Modern', 'Colorful'],
         popular: false,
         isATS: false
@@ -82,7 +82,7 @@ const templates = [
         name: 'Elegant Visual',
         description: 'Sophisticated two-column design with gradient accents.',
         category: 'professional',
-        image: '/templates/template-3.png',
+        image: '/templates/Elegent.png',
         tags: ['Visual Design', 'Elegant', 'Gradient'],
         popular: false,
         isATS: false
@@ -92,7 +92,7 @@ const templates = [
         name: 'Creative Visual',
         description: 'Fresh creative layout with visual elements for creative roles.',
         category: 'beginner',
-        image: '/templates/template-4.png',
+        image: '/templates/Creative.png',
         tags: ['Visual Design', 'Creative', 'Fresh'],
         popular: false,
         isATS: false
@@ -102,7 +102,7 @@ const templates = [
         name: 'Classic Visual',
         description: 'Classic two-column design with bold teal accents.',
         category: 'beginner',
-        image: '/templates/template-5.png',
+        image: '/templates/Classic.png',
         tags: ['Visual Design', 'Classic', 'Bold'],
         popular: false,
         isATS: false

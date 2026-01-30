@@ -4,53 +4,53 @@ import { Link } from 'react-router-dom';
 const templateItems = [
     // ATS Templates
     {
-        image: '/templates/template-2.png',
+        image: '/templates/Modern%20ATS.png',
         text: 'Modern ATS',
         templateId: 'modern-ats'
     },
     {
-        image: '/templates/template-5.png',
+        image: '/templates/Classic%20ATS.png',
         text: 'Classic ATS',
         templateId: 'classic-ats'
     },
     {
-        image: '/templates/template-1.png',
+        image: '/templates/Executive%20ATS.png',
         text: 'Executive ATS',
         templateId: 'executive-ats'
     },
     {
-        image: '/templates/template-3.png',
+        image: '/templates/Elegent%20ATS.png',
         text: 'Elegant ATS',
         templateId: 'elegant-ats'
     },
     {
-        image: '/templates/template-4.png',
+        image: '/templates/Creative%20ATS.png',
         text: 'Creative ATS',
         templateId: 'creative-ats'
     },
     // Original Templates
     {
-        image: '/templates/template-1.png',
+        image: '/templates/Executive.png',
         text: 'Executive',
         templateId: 'executive'
     },
     {
-        image: '/templates/template-2.png',
+        image: '/templates/Modern.png',
         text: 'Modern',
         templateId: 'modern'
     },
     {
-        image: '/templates/template-3.png',
+        image: '/templates/Elegent.png',
         text: 'Elegant',
         templateId: 'elegant'
     },
     {
-        image: '/templates/template-4.png',
+        image: '/templates/Creative.png',
         text: 'Creative',
         templateId: 'creative'
     },
     {
-        image: '/templates/template-5.png',
+        image: '/templates/Classic.png',
         text: 'Classic',
         templateId: 'classic'
     }
